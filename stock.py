@@ -2,7 +2,7 @@ import pandas as pd
 import streamlit as st
 import numpy as np
 #import plotly.express as px
-import yfinance as yf
+#import yfinance as yf
 
 st.title("Prabhas Movie Budgets")
 st.write("This is all prabhas movies all budgets.")
