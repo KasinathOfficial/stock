@@ -1,7 +1,7 @@
 import pandas as pd
 import streamlit as st
 import numpy as np
-import matplotlib.pyplot as px
+#import matplotlib.pyplot as px
 #import yfinance as yf
 
 st.title("Prabhas Movie Budgets")
